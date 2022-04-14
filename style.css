@@ -1,0 +1,55 @@
+
+
+.fon {
+  width: 500px; 
+  height: 800px;
+  background-color:rgb(240, 238, 238);
+  border: 0px solid;
+  margin: 0 auto;
+  
+ }
+
+ 
+h1, h3,   .mail{
+
+ text-align: center;   
+ margin: 20px auto;
+ 
+}
+
+.out-1 {
+border: 1px solid ;
+width: 300px;
+height: 200px;
+position: relative;
+margin: 50px auto;
+}
+
+.yellow {
+  border: 1px;
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+  position: relative;
+
+}
+ .red {
+  border: 1px;
+  background-color:red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 100px;
+
+}
+
+.green {
+  border: 1px;
+  background-color:green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+
+} 
